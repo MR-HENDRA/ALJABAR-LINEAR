@@ -1,0 +1,1 @@
+print("tugas aljabar linear")
